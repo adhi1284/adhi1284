@@ -2,7 +2,9 @@
   <img src="wonder-banner.png" alt="Wonder Development" width="100%" />
 </p>
 
-# adhi1284
+# <img src="profile-title.svg" alt="adhi1284" height="46" />
+
+<img src="profile-role.svg" alt="Independent web developer" height="30" />
 
 Independent web developer and project builder creating responsive websites, web applications, and multiplayer browser experiences. My work connects interface design, browser graphics, and practical backend development. My independent work includes 20+ projects for clients.
 
@@ -13,13 +15,13 @@ Independent web developer and project builder creating responsive websites, web 
   <a href="https://wondertoolbox.com/#contact">Discuss a project</a>
 </p>
 
-## What I build
+## <img src="heading-build.svg" alt="What I build" height="32" />
 
 - Responsive business websites and e-commerce interfaces.
 - Web applications with attention to UI/UX and usability.
 - Multiplayer browser games and interactive 3D experiences.
 
-## Technology
+## <img src="heading-tech.svg" alt="Technology" height="32" />
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" />
@@ -31,7 +33,7 @@ Independent web developer and project builder creating responsive websites, web 
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&amp;logo=mysql&amp;logoColor=58a6ff" />
 </p>
 
-## Selected projects
+## <img src="heading-projects.svg" alt="Selected projects" height="32" />
 
 | Project | Overview | Explore |
 | :--- | :--- | :--- |
@@ -42,7 +44,7 @@ Independent web developer and project builder creating responsive websites, web 
 
 [Browse my public repositories →](https://github.com/adhi1284?tab=repositories)
 
-## GitHub activity
+## <img src="heading-activity.svg" alt="GitHub activity" height="32" />
 
 <p>
   <a href="https://github.com/adhi1284?tab=repositories"><img alt="Live count of public GitHub repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadhi1284&amp;query=%24.public_repos&amp;label=Public%20repos&amp;color=58a6ff&amp;labelColor=161b22&amp;style=flat-square" /></a>
@@ -52,6 +54,6 @@ Independent web developer and project builder creating responsive websites, web 
 
 Explore my [contribution activity](https://github.com/adhi1284#js-contribution-activity-description). GitHub's native contribution graph appears below this README on my profile; these badges show live public metrics.
 
-## Let's build
+## <img src="heading-contact.svg" alt="Let's build" height="32" />
 
 For website development or a custom web project, [contact Wonder Development](https://wondertoolbox.com/#contact).
